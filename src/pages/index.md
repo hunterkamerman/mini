@@ -4,9 +4,9 @@ title: Nice Tat Astro Template
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# Hunter Kamerman
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[github](https://www.github.com/hunterkamerman)
 
 [instagram](https://www.instagram.com/caseyneistat/)
 

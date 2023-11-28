@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: Hunter's portfolio
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 

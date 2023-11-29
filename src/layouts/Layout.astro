@@ -3,7 +3,7 @@
 import "@fontsource/jetbrains-mono/400.css";
 import "@fontsource/jetbrains-mono/500.css";
 import { fade, ViewTransitions } from "astro:transitions";
-
+import Switch from "../components/Switch.astro";
 import { SITE_NAME, DESCRIPTION } from "../../src/config";
 
 interface Props {
@@ -39,6 +39,7 @@ const pageTitle = [
     <div class="max-w-5xl mx-auto space-y-4 py-16 px-14">
       <main class="max-w-xl">
         <slot />
+        <Switch />
       </main>
 
       <footer>

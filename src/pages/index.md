@@ -10,12 +10,6 @@ title: Hunter's portfolio
 
 [replicate](https://replicate.com/hunterkamerman)
 
-[instagram](https://www.instagram.com/caseyneistat/)
-
-[onlyfans](/onlyfans)
-
-[twitter](https://twitter.com/Casey)
-
 [contact](/contact)
 
 

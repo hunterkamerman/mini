@@ -8,6 +8,8 @@ title: Hunter's portfolio
 
 [github](https://www.github.com/hunterkamerman)
 
+[replicate](https://replicate.com/hunterkamerman)
+
 [instagram](https://www.instagram.com/caseyneistat/)
 
 [onlyfans](/onlyfans)
@@ -16,5 +18,5 @@ title: Hunter's portfolio
 
 [contact](/contact)
 
-[replicate](/replicate)
+
 

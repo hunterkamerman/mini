@@ -16,5 +16,5 @@ title: Hunter's portfolio
 
 [contact](/contact)
 
-[gallary](/gallary)
+[replicate](/replicate)
 

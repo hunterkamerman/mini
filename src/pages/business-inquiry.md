@@ -7,7 +7,7 @@ If your business inquiry is about wanting advice for YouTube or a startup idea o
 
 ​
 
-If this is for a speaking engagement or appearance or brand work or anything like that you should reach out to WME.  They're great, I've been working with them for years.
+If this is for a speaking engagement or appearance or brand work or anything like that you should reach out to WME.  They're great, I've be
 
  
 

@@ -17,3 +17,6 @@ layout: ../layouts/Layout.astro
 [sdxl-pop](https://replicate.com/hunterkamerman/sdxl-pop)
 - a LoRA trained on pop art images 
 
+[sdxl-clonesy](https://replicate.com/hunterkamerman/sdxl-clonesy)
+- a LoRA meant to replicate banksy style street art
+

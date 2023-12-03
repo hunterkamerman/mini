@@ -12,4 +12,8 @@ layout: ../layouts/Layout.astro
 
 [sdxl-jet](https://replicate.com/hunterkamerman/sdxl-jet)
 - a LoRA trained on images of stealth aircraft
--  V2 will be coming soon with no visble landing gear
+-  V2 coming soon with no visble landing gear
+
+[sdxl-pop](https://replicate.com/hunterkamerman/sdxl-pop)
+- a LoRA trained on pop art images 
+

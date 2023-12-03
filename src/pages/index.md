@@ -10,7 +10,10 @@ title: Hunter's portfolio
 
 [replicate](https://replicate.com/hunterkamerman)
 
+[about](/about)
+
 [contact](/contact)
+
 
 
 

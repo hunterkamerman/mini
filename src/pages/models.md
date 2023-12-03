@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# fine tuned LoRA models
+# fine tuned LoRA models<br><br><br>
 
 
 [sdxl-hope](https://replicate.com/hunterkamerman/sdxl-hope)

@@ -12,7 +12,7 @@ layout: ../layouts/Layout.astro
 
 [sdxl-jet](https://replicate.com/hunterkamerman/sdxl-jet)
 - trained on images of stealth aircraft
-- V2 coming soon with no visble landing gear<br><br>
+- V2 coming soon with no visible landing gear<br><br>
 
 
 [sdxl-pop](https://replicate.com/hunterkamerman/sdxl-pop)

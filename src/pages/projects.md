@@ -4,10 +4,11 @@ layout: ../layouts/Layout.astro
 # Projects<br><br><br>
 
 ## Discord bot 
-- fetch memes from reddit
-- generate images using replicate
-- look up urban dictionary words
-
+<ul>
+- fetch memes from reddit<br>
+- generate images using replicate<br>
+- look up urban dictionary words<br>
+</ul>
 
 
 

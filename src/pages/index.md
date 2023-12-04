@@ -10,6 +10,8 @@ title: Hunter's portfolio
 
 [replicate](https://replicate.com/hunterkamerman)
 
+[projects](/projects)
+
 [models](/models)
 
 [about](/about)

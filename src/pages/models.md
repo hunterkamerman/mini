@@ -35,3 +35,6 @@ layout: ../layouts/Layout.astro
 
 [sdxl-cats](https://replicate.com/hunterkamerman/sdxl-cats)
 - trained on cats being human like <br><br>
+
+[sdxl-georgia](https://replicate.com/hunterkamerman/sdxl-georgia)
+- A fine-tuned SDXL LoRA trained on Georgia O'keeffe art <br><br>

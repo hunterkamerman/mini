@@ -6,16 +6,18 @@ layout: ../layouts/Layout.astro
 Hello there! 👋 I'm Hunter Kamerman, a passionate Full Stack Developer with a knack for turning ideas into reality.
 
 
-My expertise spans across various technologies:
+My expertise spans across various technologies:<br><br>
 
-
-- Astro.js
-- TypeScript
-- Python
-- Discord.js
-- Discord.py
-- Stable Diffusion
-- Fine-tuning LoRa models for image generation
+<ul>
+- Astro.js <br>
+- TypeScript <br>
+- Python <br>
+- Discord.js <br>
+- Discord.py <br>
+- Stable Diffusion <br>
+- Fine-tuning LoRA models for image generation <br>
+</ul>
+<br><br>
 
 
 

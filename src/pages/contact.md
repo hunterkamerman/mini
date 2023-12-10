@@ -5,4 +5,4 @@ layout: ../layouts/Layout.astro
 
 are you trying to contact me for a
 
-[backend devlopment](/backend) or [LoRA tuning](/sdxl)?
+[backend devlopment](/backend) or [SDXL fine tuning](/sdxl)?

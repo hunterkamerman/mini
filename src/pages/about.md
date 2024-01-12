@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 ---
 # About me
 
-Hello there! 👋 I'm Hunter Kamerman, a passionate Full Stack Developer with a knack for turning ideas into reality.
+Hi there!  I'm Hunter Kamerman, a passionate Full Stack Developer with a knack for turning ideas into reality.
 
 
 My expertise spans across various technologies:<br><br>
@@ -25,7 +25,7 @@ Beyond the digital realm, I bring a unique perspective to my work, drawing inspi
 
 
 
-Let's build something amazing together! 💻🌱
+Let's build something amazing together! 
 
 
 
